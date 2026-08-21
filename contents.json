@@ -1,0 +1,46 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "pack1",
+      "name": "AV6 Pack 1",
+      "publisher": "AV6",
+      "tray_image_file": "https://raw.githubusercontent.com/ayan6v/av6-stickrs/main/pack1/tray.webp",
+      "publisher_email": "ayanv6th@gmail.com",
+      "publisher_website": "https://instagram.com/ayan6v",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/ayan6v/av6-stickrs/main/pack1/01.webp",
+          "emojis": ["🔥", "😎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/ayan6v/av6-stickrs/main/pack1/02.webp",
+          "emojis": ["😂"]
+        }
+      ]
+    },
+    {
+      "identifier": "pack2",
+      "name": "AV6 Pack 2",
+      "publisher": "AV6",
+      "tray_image_file": "https://raw.githubusercontent.com/ayan6v/av6-stickrs/main/pack2/tray.webp",
+      "publisher_email": "ayanv6th@gmail.com",
+      "publisher_website": "https://instagram.com/ayan6v",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/ayan6v/av6-stickrs/main/pack2/01.webp",
+          "emojis": ["❤️"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/ayan6v/av6-stickrs/main/pack2/02.webp",
+          "emojis": ["👍"]
+        }
+      ]
+    }
+  ]
+}
